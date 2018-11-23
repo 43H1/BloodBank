@@ -1,0 +1,17 @@
+C:\Users\abhi.rr\source\repos\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\bin\Debug\Blood_Bank_Final.Domain.Abstract.dll
+C:\Users\abhi.rr\source\repos\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\bin\Debug\Blood_Bank_Final.Domain.Abstract.pdb
+C:\Users\abhi.rr\source\repos\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\obj\Debug\Blood_Bank_Final.Domain.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\abhi.rr\source\repos\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\obj\Debug\Blood_Bank_Final.Domain.Abstract.dll
+C:\Users\abhi.rr\source\repos\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\obj\Debug\Blood_Bank_Final.Domain.Abstract.pdb
+C:\Users\abhi.rr\source\repos\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\obj\Debug\Blood_Bank_Final.Domain.Abstract.csprojResolveAssemblyReference.cache
+C:\Users\abhi.rr\source\repos\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\bin\Debug\Blood_Bank_Final.Infrastructure.dll
+C:\Users\abhi.rr\source\repos\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\bin\Debug\Blood_Bank_Final.Infrastructure.pdb
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\bin\Debug\Blood_Bank_Final.Domain.Abstract.dll
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\bin\Debug\Blood_Bank_Final.Domain.Abstract.pdb
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\bin\Debug\Blood_Bank_Final.Infrastructure.dll
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\bin\Debug\Blood_Bank_Final.Infrastructure.pdb
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\obj\Debug\Blood_Bank_Final.Domain.Abstract.csprojAssemblyReference.cache
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\obj\Debug\Blood_Bank_Final.Domain.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\obj\Debug\Blood_Bank_Final.Domain.Abstract.csproj.CopyComplete
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\obj\Debug\Blood_Bank_Final.Domain.Abstract.dll
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.Domain.Abstract\obj\Debug\Blood_Bank_Final.Domain.Abstract.pdb

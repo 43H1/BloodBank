@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7E058554-3ABE-4E52-87E5-56B6C8072F39}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Blood_Bank_Final.Helper</RootNamespace>
+    <AssemblyName>Blood_Bank_Final.Helper</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.3.2.0.0\lib\net45-full\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject.Web.Common, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.Web.Common.3.2.0.0\lib\net45-full\Ninject.Web.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject.Web.Mvc, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.MVC5.3.2.1.0\lib\net45-full\Ninject.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WebActivatorEx, Version=2.0.0.0, Culture=neutral, PublicKeyToken=7b26dc2a43f6a0d4, processorArchitecture=MSIL">
+      <HintPath>..\packages\WebActivatorEx.2.0\lib\net40\WebActivatorEx.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="NinjectHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Blood_Bank_Final.Application.Abstract\Blood_Bank_Final.Application.Abstract.csproj">
+      <Project>{0C656110-ADB4-4BEA-BA2E-D4450E67BBEC}</Project>
+      <Name>Blood_Bank_Final.Application.Abstract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Blood_Bank_Final.Application\Blood_Bank_Final.Application.csproj">
+      <Project>{E717B752-C90C-4F1D-B94C-FA1A27949003}</Project>
+      <Name>Blood_Bank_Final.Application</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Blood_Bank_Final.DataAccess.Abstract.Mongo\Blood_Bank_Final.DataAccess.Abstract.Mongo.csproj">
+      <Project>{8F872476-D6B6-4E3B-B05A-142DB14EA8A1}</Project>
+      <Name>Blood_Bank_Final.DataAccess.Abstract.Mongo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Blood_Bank_Final.DataAccess.Abstract\Blood_Bank_Final.DataAccess.Abstract.csproj">
+      <Project>{0B1A196C-4BBE-45B3-9E16-942C24AD0745}</Project>
+      <Name>Blood_Bank_Final.DataAccess.Abstract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Blood_Bank_Final.DataAccess.ElasticSearch.Abstract\Blood_Bank_Final.DataAccess.ElasticSearch.Abstract.csproj">
+      <Project>{B3710911-232D-45E1-A4DA-7ED94F7F6CEF}</Project>
+      <Name>Blood_Bank_Final.DataAccess.ElasticSearch.Abstract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Blood_Bank_Final.DataAccess.ElasticSearch\Blood_Bank_Final.DataAccess.ElasticSearch.csproj">
+      <Project>{3CB5B2B6-9330-4A89-8AF3-178FF69B9864}</Project>
+      <Name>Blood_Bank_Final.DataAccess.ElasticSearch</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Blood_Bank_Final.DataAccess.Mongo\Blood_Bank_Final.DataAccess.Mongo.csproj">
+      <Project>{3FD06AC7-5B10-4FA2-934E-F2358FBE6354}</Project>
+      <Name>Blood_Bank_Final.DataAccess.Mongo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Blood_Bank_Final.DataAccess\Blood_Bank_Final.DataAccess.SQL.csproj">
+      <Project>{BAB1F1DC-24FD-4363-872C-F58BAA358DBE}</Project>
+      <Name>Blood_Bank_Final.DataAccess.SQL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Blood_Bank_Final.Domain.Abstract\Blood_Bank_Final.Domain.Abstract.csproj">
+      <Project>{70D4B610-C384-4E37-8137-41CA9B928E0C}</Project>
+      <Name>Blood_Bank_Final.Domain.Abstract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Blood_Bank_Final.Domain\Blood_Bank_Final.Domain.csproj">
+      <Project>{679A5CAE-B4CD-459E-9877-71DE2AA67406}</Project>
+      <Name>Blood_Bank_Final.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

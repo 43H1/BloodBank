@@ -1,0 +1,11 @@
+C:\Users\abhi.rr\source\repos\Blood_Bank_Final\Blood_Bank_Final.Presentation\bin\Debug\Blood_Bank_Final.Presentation.dll
+C:\Users\abhi.rr\source\repos\Blood_Bank_Final\Blood_Bank_Final.Presentation\bin\Debug\Blood_Bank_Final.Presentation.pdb
+C:\Users\abhi.rr\source\repos\Blood_Bank_Final\Blood_Bank_Final.Presentation\obj\Debug\Blood_Bank_Final.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\abhi.rr\source\repos\Blood_Bank_Final\Blood_Bank_Final.Presentation\obj\Debug\Blood_Bank_Final.Presentation.dll
+C:\Users\abhi.rr\source\repos\Blood_Bank_Final\Blood_Bank_Final.Presentation\obj\Debug\Blood_Bank_Final.Presentation.pdb
+C:\Users\abhi.rr\source\repos\Blood_Bank_Final\Blood_Bank_Final.Presentation\obj\Debug\Blood_Bank_Final.Abstract.csprojResolveAssemblyReference.cache
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.Presentation\bin\Debug\Blood_Bank_Final.Presentation.dll
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.Presentation\bin\Debug\Blood_Bank_Final.Presentation.pdb
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.Presentation\obj\Debug\Blood_Bank_Final.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.Presentation\obj\Debug\Blood_Bank_Final.Presentation.dll
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.Presentation\obj\Debug\Blood_Bank_Final.Presentation.pdb

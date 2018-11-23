@@ -1,0 +1,36 @@
+﻿
+
+<h2>Blood Donors</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+	<tr>
+		
+		<th>
+			Blood Donor Name
+		</th>
+		<th>
+			Blood Group
+		</th>
+	</tr>
+
+@foreach (var item in ViewBag.Donors) {
+	<tr>
+		
+		<td>
+			@item.DonorName
+		</td>
+		<td>
+			@item.BloodGroup
+		</td>
+
+		<td>
+			@Html.ActionLink("Edit", "Edit", new { id = item.DonorId }) |
+			@Html.ActionLink("Delete", "Delete", new { id = item.DonorId })
+		</td>
+	</tr>
+}
+
+</table>

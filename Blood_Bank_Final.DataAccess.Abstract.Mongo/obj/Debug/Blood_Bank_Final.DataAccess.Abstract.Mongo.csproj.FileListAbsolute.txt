@@ -1,0 +1,9 @@
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.DataAccess.Abstract.Mongo\bin\Debug\Blood_Bank_Final.DataAccess.Abstract.Mongo.dll
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.DataAccess.Abstract.Mongo\bin\Debug\Blood_Bank_Final.DataAccess.Abstract.Mongo.pdb
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.DataAccess.Abstract.Mongo\bin\Debug\Blood_Bank_Final.Infrastructure.dll
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.DataAccess.Abstract.Mongo\bin\Debug\Blood_Bank_Final.Infrastructure.pdb
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.DataAccess.Abstract.Mongo\obj\Debug\Blood_Bank_Final.DataAccess.Abstract.Mongo.csprojAssemblyReference.cache
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.DataAccess.Abstract.Mongo\obj\Debug\Blood_Bank_Final.DataAccess.Abstract.Mongo.csproj.CoreCompileInputs.cache
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.DataAccess.Abstract.Mongo\obj\Debug\Blood_Bank_Final.DataAccess.Abstract.Mongo.csproj.CopyComplete
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.DataAccess.Abstract.Mongo\obj\Debug\Blood_Bank_Final.DataAccess.Abstract.Mongo.dll
+C:\Users\abhi.rr\Desktop\my\Blood_Bank_Final\Blood_Bank_Final.DataAccess.Abstract.Mongo\obj\Debug\Blood_Bank_Final.DataAccess.Abstract.Mongo.pdb
